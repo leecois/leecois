@@ -1,12 +1,7 @@
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <picture> 
-
 <img src="https://github.com/leecois/leecois/assets/141781398/2400a825-59af-4862-b4d4-586c215f228c" align="right" width="285">
-</a>
 </picture>
-
 ```js
 "use creativity";
 "use innovation";
