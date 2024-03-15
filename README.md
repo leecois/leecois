@@ -3,7 +3,8 @@
 
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="https://github.com/leecois/leecois/assets/141781398/60a0c814-5e9a-48fe-b104-fbe03cef4058" align="right" width="350">
+
+<img src="https://github.com/leecois/leecois/assets/141781398/86f6d4bc-ec08-46e1-be0f-3c710a4746ee" align="right" width="285">
 </a>
 </picture>
 
