@@ -2,8 +2,9 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<a href="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://giphy.com/embed/JpLVqOg8xTY3EmoYF7)" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="![image](https://github.com/leecois/leecois/assets/141781398/60a0c814-5e9a-48fe-b104-fbe03cef4058)
+" align="right" width="350">
 </a>
 </picture>
 
