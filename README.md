@@ -23,17 +23,17 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                207 commits         ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-🌆 Daytime                127 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-🌃 Evening                223 commits         ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-🌙 Night                  262 commits         ████████░░░░░░░░░░░░░░░░░   31.99 % 
+🌞 Morning                198 commits         ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+🌆 Daytime                123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+🌃 Evening                216 commits         ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+🌙 Night                  249 commits         ████████░░░░░░░░░░░░░░░░░   31.68 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Bangkok
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
 TypeScript               4 hrs 22 mins       █████████████████████████   98.65 % 
@@ -50,7 +50,7 @@ WSL                      1 hr 52 mins        ███████████�
 ```
 
 
- Last Updated on 25-04-2024 10:37:55 UTC
+ Last Updated on 25-04-2024 17:15:08 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
