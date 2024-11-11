@@ -20,8 +20,37 @@ D:\Huh-Zuha> node enchantedIndex.js
 Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 ```
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 10-11-2024 17:14:44 UTC
+```text
+🌞 Morning                339 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+🌆 Daytime                628 commits         ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+🌃 Evening                731 commits         ████████░░░░░░░░░░░░░░░░░   32.49 % 
+🌙 Night                  552 commits         ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+TypeScript               4 hrs 16 mins       ████████████████░░░░░░░░░   63.99 % 
+MDX                      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+JavaScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 40 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  6 hrs 40 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 11-11-2024 17:15:59 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
