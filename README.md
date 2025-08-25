@@ -6,11 +6,11 @@
 import { Wizard } from 'codeRealm';
 
 new Wizard({
-    name        : 'Le Quoc Khanh',
+    name        : 'Lê Quốc Khánh',
     title       : 'Full Stack Developer & Digital Artisan',
-    email       : 'lee.cois.dev@gmail.com',
+    email       : 'imlequockhanh@gmail.com',
     realm       : 'VietNam, The Land of Hidden Dragons',
-    spellbook   : ['Nextjs', 'JavaScript', 'React', 'Node.js', 'Python', 'Django', 'Cloud Services'],
+    spellbook   : ['Nextjs', 'JavaScript', 'React', 'Node.js', 'Python', 'Flutter', 'Cloud Services'],
     quest       : `To craft digital marvels that bridge realms, connect cultures, and bring imagination to life.`,
 }).cast('IntroductionSpell');
 ```
