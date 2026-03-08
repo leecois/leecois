@@ -36,21 +36,21 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               3 hrs               ███████████░░░░░░░░░░░░░░   43.75 % 
-Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-TeX                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+TypeScript               3 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.71 % 
+Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Bash                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+TeX                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 53 mins       █████████████████████████   100.00 % 
+Cursor                   7 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07-03-2026 17:25:27 UTC
+ Last Updated on 08-03-2026 17:27:08 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
