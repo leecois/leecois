@@ -24,9 +24,9 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 
 ```text
 🌞 Morning                766 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-🌆 Daytime                2683 commits        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-🌃 Evening                3288 commits        █████████░░░░░░░░░░░░░░░░   36.53 % 
-🌙 Night                  2263 commits        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+🌆 Daytime                2683 commits        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+🌃 Evening                3289 commits        █████████░░░░░░░░░░░░░░░░   36.54 % 
+🌙 Night                  2264 commits        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
 ```
 
 
@@ -36,21 +36,21 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.06 % 
-Other                    56 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-JSON                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Bash                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+TypeScript               2 hrs 53 mins       ████████████░░░░░░░░░░░░░   46.76 % 
+Other                    1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 7 mins        █████████████████████████   100.00 % 
+Cursor                   6 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23-04-2026 18:09:58 UTC
+ Last Updated on 24-04-2026 17:54:41 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
