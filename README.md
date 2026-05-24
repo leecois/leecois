@@ -20,8 +20,38 @@ D:\Huh-Zuha> node enchantedIndex.js
 Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 ```
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 23-05-2026 18:06:39 UTC
+```text
+🌞 Morning                797 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+🌆 Daytime                2826 commits        ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+🌃 Evening                3404 commits        █████████░░░░░░░░░░░░░░░░   35.70 % 
+🌙 Night                  2509 commits        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+TypeScript               35 hrs 23 mins      █████████████████░░░░░░░░   66.80 % 
+CSS                      7 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+JSON                     3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Bash                     2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Other                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+
+🔥 Editors: 
+Cursor                   52 hrs 24 mins      █████████████████████████   98.93 % 
+Claude Code              34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+
+💻 Operating System: 
+Mac                      52 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 24-05-2026 18:01:51 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
