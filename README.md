@@ -23,10 +23,10 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                926 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-🌆 Daytime                3115 commits        ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-🌃 Evening                3720 commits        █████████░░░░░░░░░░░░░░░░   34.74 % 
-🌙 Night                  2947 commits        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+🌞 Morning                898 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌆 Daytime                3004 commits        ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+🌃 Evening                3583 commits        █████████░░░░░░░░░░░░░░░░   34.91 % 
+🌙 Night                  2779 commits        ███████░░░░░░░░░░░░░░░░░░   27.08 % 
 ```
 
 
@@ -36,24 +36,24 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               15 hrs 37 mins      ███████████████░░░░░░░░░░   58.88 % 
-CSS                      2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Astro                    2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-JSON                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+TypeScript               11 hrs 22 mins      ███████████████░░░░░░░░░░   58.69 % 
+Astro                    2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Other                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-Cursor                   18 hrs 26 mins      █████████████████░░░░░░░░   69.52 % 
-Claude Code              5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-VS Code                  1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Codex CLI                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Cursor                   11 hrs 39 mins      ███████████████░░░░░░░░░░   60.08 % 
+Claude Code              5 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
+VS Code                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Codex CLI                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 Operating System: 
-Mac                      26 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13-06-2026 18:11:48 UTC
+ Last Updated on 14-06-2026 18:18:29 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
