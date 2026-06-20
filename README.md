@@ -36,25 +36,23 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               7 hrs 1 min         ██████████████░░░░░░░░░░░   54.06 % 
-JSON                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+TypeScript               11 hrs 41 mins      ████████████████░░░░░░░░░   65.73 % 
+JSON                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 42 mins       ███████████████░░░░░░░░░░   59.30 % 
-Claude Code              3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-VS Code                  52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Codex CLI                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Exec Wakatime            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Cursor                   11 hrs 52 mins      █████████████████░░░░░░░░   66.71 % 
+Claude Code              5 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   32.99 % 
+Exec Wakatime            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Mac                      12 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19-06-2026 19:00:33 UTC
+ Last Updated on 20-06-2026 18:16:04 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
