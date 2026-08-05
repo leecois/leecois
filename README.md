@@ -20,7 +20,7 @@ D:\Huh-Zuha> node enchantedIndex.js
 Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 ```
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-463%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-464%20hrs%2021%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,46 +38,46 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Vue                      2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-JavaScript               2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-TypeScript               2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Ruby                     1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Vue                      2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+JavaScript               2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+TypeScript               2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Ruby                     1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+YAML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 23 mins      ████████████████████████░   97.21 % 
-Cursor                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Claude Code              14 hrs 32 mins      ████████████████████████░   96.39 % 
+Cursor                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 💻 Operating System: 
-Mac                      16 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 38 mins (98.62%)
+⏱ AI Coding Time: 14 hrs 54 mins (98.76%)
 
-✍️ 8,726 lines written by AI, 4 lines written by hand (99.95% AI-written)
+✍️ 6,774 lines written by AI, 3 lines written by hand (99.96% AI-written)
 
-🔤 649,795,690 Input Tokens, 1,347,682 Output Tokens
+🔤 593,362,885 Input Tokens, 1,147,789 Output Tokens
 
-💵 $3290.24 Estimated AI Cost This Week
+💵 $3019.72 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 151 AI Prompts
+🧠 13 AI Sessions, 126 AI Prompts
 
-Opus                     8,974 lines         █████████████████████████   98.95 % 
-Sonnet                   95 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Opus                     7,117 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📝 Concise Prompter — average 479 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+🤖 AI-Driven — 99.96% of written lines came from AI
+📄 Detailed Prompter — average 540 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04-08-2026 17:39:13 UTC
+ Last Updated on 05-08-2026 17:40:00 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
