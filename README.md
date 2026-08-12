@@ -20,15 +20,15 @@ D:\Huh-Zuha> node enchantedIndex.js
 Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 ```
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-469%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-470%20hrs%201%20min-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1219 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-🌆 Daytime                3877 commits        ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-🌃 Evening                4399 commits        ████████░░░░░░░░░░░░░░░░░   33.92 % 
-🌙 Night                  3475 commits        ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+🌞 Morning                1169 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+🌆 Daytime                3749 commits        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+🌃 Evening                4275 commits        █████████░░░░░░░░░░░░░░░░   34.16 % 
+🌙 Night                  3323 commits        ███████░░░░░░░░░░░░░░░░░░   26.55 % 
 ```
 
 
@@ -38,48 +38,48 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-JavaScript               1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Vue                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-TypeScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Markdown                 1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+JavaScript               1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Vue                      1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+HTML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 13 mins       ██████████████████████░░░   88.23 % 
-Cursor                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Agent                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Claude Code              5 hrs 17 mins       ██████████████████████░░░   86.27 % 
+Cursor                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Agent                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 💻 Operating System: 
-Mac                      7 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 54 mins (97.79%)
+⏱ AI Coding Time: 5 hrs 58 mins (97.45%)
 
-✍️ 2,263 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,050 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 143,225,009 Input Tokens, 582,343 Output Tokens
+🔤 103,632,732 Input Tokens, 402,333 Output Tokens
 
-💵 $817.40 Estimated AI Cost This Week
+💵 $615.76 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 93 AI Prompts
+🧠 21 AI Sessions, 92 AI Prompts
 
-Opus                     2,228 lines         ████████████████████████░   95.50 % 
-Sonnet                   59 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Fable                    46 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Opus                     2,054 lines         ████████████████████████░   96.39 % 
+Sonnet                   59 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Fable                    18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 8,224 characters per prompt
+📚 Verbose Prompter — average 8,028 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.38% of changed lines were hand-edited
+🚀 High AI Trust — 0.42% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11-08-2026 17:28:20 UTC
+ Last Updated on 12-08-2026 17:27:38 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
