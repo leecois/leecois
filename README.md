@@ -20,7 +20,7 @@ D:\Huh-Zuha> node enchantedIndex.js
 Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 ```
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-610%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-614%20hrs%2026%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,50 +38,50 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 12 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-Other                    11 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-TypeScript               10 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-HTML                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Other                    13 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   31.61 % 
+TypeScript               10 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+Markdown                 10 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+JSON                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+HTML                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 56 mins      █████████████░░░░░░░░░░░░   51.90 % 
-Codex CLI                16 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   39.11 % 
-Cursor                   2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Agent                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Claude Code              19 hrs 50 mins      ████████████░░░░░░░░░░░░░   46.83 % 
+Codex CLI                18 hrs 36 mins      ███████████░░░░░░░░░░░░░░   43.89 % 
+Cursor                   2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Agent                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 💻 Operating System: 
-Mac                      42 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      42 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 7 mins (97.24%)
+⏱ AI Coding Time: 41 hrs 10 mins (97.17%)
 
-✍️ 19,390 lines written by AI, 333 lines written by hand (98.31% AI-written)
+✍️ 17,366 lines written by AI, 334 lines written by hand (98.11% AI-written)
 
-🔤 46,487,442 Input Tokens, 3,763,039 Output Tokens
+🔤 41,895,444 Input Tokens, 3,673,061 Output Tokens
 
-💵 $1019.61 Estimated AI Cost This Week
+💵 $1004.58 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 384 AI Prompts
+🧠 58 AI Sessions, 424 AI Prompts
 
-Fable                    12,101 lines        ███████████████░░░░░░░░░░   61.80 % 
-GPT                      3,543 lines         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Sonnet                   3,114 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Opus                     823 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Fable                    11,257 lines        ████████████████░░░░░░░░░   64.11 % 
+GPT                      3,543 lines         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Sonnet                   1,934 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Opus                     823 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 Composer                 1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.31% of written lines came from AI
-📚 Verbose Prompter — average 1,543 characters per prompt
+🤖 AI-Driven — 98.11% of written lines came from AI
+📄 Detailed Prompter — average 1,164 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.82% of changed lines were hand-edited
+🚀 High AI Trust — 2.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09-09-2026 17:17:58 UTC
+ Last Updated on 10-09-2026 17:17:32 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
