@@ -38,50 +38,50 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    13 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   31.61 % 
-TypeScript               10 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-Markdown                 10 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-JSON                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-HTML                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Other                    13 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   35.68 % 
+Markdown                 9 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+TypeScript               8 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+JSON                     2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+HTML                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 50 mins      ████████████░░░░░░░░░░░░░   46.83 % 
-Codex CLI                18 hrs 36 mins      ███████████░░░░░░░░░░░░░░   43.89 % 
-Cursor                   2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Agent                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Codex CLI                17 hrs 7 mins       ████████████░░░░░░░░░░░░░   46.16 % 
+Claude Code              16 hrs 38 mins      ███████████░░░░░░░░░░░░░░   44.84 % 
+Cursor                   2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Agent                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 💻 Operating System: 
-Mac                      42 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 10 mins (97.17%)
+⏱ AI Coding Time: 36 hrs 1 min (97.1%)
 
-✍️ 17,366 lines written by AI, 334 lines written by hand (98.11% AI-written)
+✍️ 17,123 lines written by AI, 334 lines written by hand (98.09% AI-written)
 
-🔤 41,895,444 Input Tokens, 3,673,061 Output Tokens
+🔤 37,053,762 Input Tokens, 3,222,536 Output Tokens
 
-💵 $1004.58 Estimated AI Cost This Week
+💵 $907.89 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 424 AI Prompts
+🧠 51 AI Sessions, 363 AI Prompts
 
-Fable                    11,257 lines        ████████████████░░░░░░░░░   64.11 % 
-GPT                      3,543 lines         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Sonnet                   1,934 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Opus                     823 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Fable                    11,257 lines        ████████████████░░░░░░░░░   65.05 % 
+GPT                      3,543 lines         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Sonnet                   1,934 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Opus                     570 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 Composer                 1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.11% of written lines came from AI
-📄 Detailed Prompter — average 1,164 characters per prompt
+🤖 AI-Driven — 98.09% of written lines came from AI
+📄 Detailed Prompter — average 1,057 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 2.04% of changed lines were hand-edited
+🚀 High AI Trust — 2.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10-09-2026 17:17:32 UTC
+ Last Updated on 11-09-2026 17:18:46 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
