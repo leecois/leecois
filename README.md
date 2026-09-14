@@ -20,15 +20,15 @@ D:\Huh-Zuha> node enchantedIndex.js
 Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 ```
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-614%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-614%20hrs%2050%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1558 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-🌆 Daytime                4261 commits        ████████░░░░░░░░░░░░░░░░░   30.40 % 
-🌃 Evening                4658 commits        ████████░░░░░░░░░░░░░░░░░   33.23 % 
-🌙 Night                  3541 commits        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+🌞 Morning                1588 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+🌆 Daytime                4264 commits        ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+🌃 Evening                4812 commits        ████████░░░░░░░░░░░░░░░░░   33.74 % 
+🌙 Night                  3600 commits        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
 ```
 
 
@@ -38,49 +38,49 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    11 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   38.88 % 
-Markdown                 7 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-TypeScript               7 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-JSON                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Bash                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Other                    10 hrs 22 mins      ████████████░░░░░░░░░░░░░   48.53 % 
+Markdown                 4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+TypeScript               3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-Codex CLI                15 hrs 27 mins      █████████████░░░░░░░░░░░░   52.14 % 
-Claude Code              11 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   38.97 % 
-Cursor                   1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Agent                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Codex CLI                15 hrs 10 mins      ██████████████████░░░░░░░   70.94 % 
+Claude Code              4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Cursor                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Agent                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Mac                      29 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 38 mins (96.59%)
+⏱ AI Coding Time: 20 hrs 26 mins (95.58%)
 
-✍️ 8,178 lines written by AI, 333 lines written by hand (96.09% AI-written)
+✍️ 1,395 lines written by AI, 9 lines written by hand (99.36% AI-written)
 
-🔤 25,353,612 Input Tokens, 2,084,887 Output Tokens
+🔤 15,631,316 Input Tokens, 987,126 Output Tokens
 
-💵 $679.02 Estimated AI Cost This Week
+💵 $446.16 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 295 AI Prompts
+🧠 28 AI Sessions, 210 AI Prompts
 
-Fable                    6,430 lines         ████████████████████░░░░░   78.41 % 
-GPT                      1,357 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Opus                     414 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+GPT                      1,357 lines         ████████████████████████░   95.77 % 
+Opus                     39 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Fable                    21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.09% of written lines came from AI
-📄 Detailed Prompter — average 878 characters per prompt
+🤖 AI-Driven — 99.36% of written lines came from AI
+📝 Concise Prompter — average 381 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 4.24% of changed lines were hand-edited
+🚀 High AI Trust — 2.65% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13-09-2026 17:15:57 UTC
+ Last Updated on 14-09-2026 17:18:17 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
