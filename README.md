@@ -20,7 +20,7 @@ D:\Huh-Zuha> node enchantedIndex.js
 Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 ```
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-614%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-616%20hrs%2029%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,49 +38,49 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    10 hrs 22 mins      ████████████░░░░░░░░░░░░░   48.53 % 
-Markdown                 4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-TypeScript               3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Other                    9 hrs 18 mins       ████████████████░░░░░░░░░   65.62 % 
+Text                     3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+TypeScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-Codex CLI                15 hrs 10 mins      ██████████████████░░░░░░░   70.94 % 
-Claude Code              4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Cursor                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Agent                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Codex CLI                9 hrs 19 mins       ████████████████░░░░░░░░░   65.73 % 
+Claude Code              4 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.67 % 
+Agent                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Cursor                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Mac                      21 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 26 mins (95.58%)
+⏱ AI Coding Time: 14 hrs 9 mins (99.76%)
 
-✍️ 1,395 lines written by AI, 9 lines written by hand (99.36% AI-written)
+✍️ 7 lines written by AI, 1 lines written by hand (87.5% AI-written)
 
-🔤 15,631,316 Input Tokens, 987,126 Output Tokens
+🔤 19,230,407 Input Tokens, 1,899,498 Output Tokens
 
-💵 $446.16 Estimated AI Cost This Week
+💵 $476.47 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 210 AI Prompts
+🧠 22 AI Sessions, 139 AI Prompts
 
-GPT                      1,357 lines         ████████████████████████░   95.77 % 
-Opus                     39 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Fable                    21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+GPT                      7 lines             █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.36% of written lines came from AI
-📝 Concise Prompter — average 381 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.65% of changed lines were hand-edited
+🤖 AI-Driven — 87.5% of written lines came from AI
+📝 Concise Prompter — average 329 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 12.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14-09-2026 17:18:17 UTC
+ Last Updated on 15-09-2026 17:18:28 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
