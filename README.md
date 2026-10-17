@@ -20,14 +20,14 @@ D:\Huh-Zuha> node enchantedIndex.js
 Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 ```
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-798%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-807%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                11528 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-🌆 Daytime                22509 commits       ████████░░░░░░░░░░░░░░░░░   32.30 % 
-🌃 Evening                20652 commits       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+🌆 Daytime                22514 commits       ████████░░░░░░░░░░░░░░░░░   32.30 % 
+🌃 Evening                20655 commits       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
 🌙 Night                  15003 commits       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
 ```
 
@@ -38,48 +38,48 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    37 hrs 41 mins      ██████████████████░░░░░░░   70.41 % 
-TypeScript               8 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-JavaScript               2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Other                    36 hrs 32 mins      █████████████████░░░░░░░░   68.17 % 
+TypeScript               8 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Markdown                 2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JavaScript               2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 Image (svg)              1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-Bot                      35 hrs 27 mins      █████████████████░░░░░░░░   66.24 % 
-Claude Code              8 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Codex CLI                8 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Cursor                   1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Codex Vscode             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Bot                      35 hrs 15 mins      ████████████████░░░░░░░░░   65.78 % 
+Claude Code              8 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Codex CLI                8 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Cursor                   51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Codex Vscode             43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Mac                      53 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      53 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 hrs 56 mins (98.92%)
+⏱ AI Coding Time: 53 hrs 3 mins (98.98%)
 
-✍️ 2,122 lines written by AI, 47 lines written by hand (97.83% AI-written)
+✍️ 2,344 lines written by AI, 46 lines written by hand (98.08% AI-written)
 
-🔤 199,451,316 Input Tokens, 21,599,720 Output Tokens
+🔤 206,981,104 Input Tokens, 22,161,646 Output Tokens
 
-💵 $8779.22 Estimated AI Cost This Week
+💵 $10349.41 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 956 AI Prompts
+🧠 100 AI Sessions, 985 AI Prompts
 
-GPT                      2,230 lines         █████████████████████████   100.00 % 
+GPT                      2,447 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.83% of written lines came from AI
-📝 Concise Prompter — average 160 characters per prompt
+🤖 AI-Driven — 98.08% of written lines came from AI
+📝 Concise Prompter — average 151 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 3.88% of changed lines were hand-edited
+🚀 High AI Trust — 3.51% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16-10-2026 17:28:15 UTC
+ Last Updated on 17-10-2026 17:24:11 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
