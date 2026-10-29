@@ -25,10 +25,10 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                21246 commits       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-🌆 Daytime                33534 commits       ████████░░░░░░░░░░░░░░░░░   31.98 % 
-🌃 Evening                29554 commits       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-🌙 Night                  20509 commits       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+🌞 Morning                22572 commits       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+🌆 Daytime                36070 commits       ████████░░░░░░░░░░░░░░░░░   32.14 % 
+🌃 Evening                31577 commits       ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+🌙 Night                  22003 commits       █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
 ```
 
 
@@ -38,48 +38,46 @@ Hi, my name is Quoc Khanh, I'm a Full Stack Developer from VietNam.
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    26 hrs 24 mins      ████████████████░░░░░░░░░   65.84 % 
-JavaScript               7 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Markdown                 3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-CSV                      44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Other                    20 hrs 59 mins      ████████████████░░░░░░░░░   63.19 % 
+JavaScript               7 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+Markdown                 3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-Grok Bot                 26 hrs 25 mins      ████████████████░░░░░░░░░   65.90 % 
-Claude Code              12 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   30.42 % 
-Cursor                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Grok Bot                 21 hrs 58 mins      █████████████████░░░░░░░░   66.16 % 
+Claude Code              10 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   32.18 % 
+Cursor                   33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Mac                      40 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      33 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 34 mins (98.66%)
+⏱ AI Coding Time: 32 hrs 43 mins (98.52%)
 
-✍️ 2,483 lines written by AI, 10 lines written by hand (99.6% AI-written)
+✍️ 2,098 lines written by AI, 10 lines written by hand (99.53% AI-written)
 
-🔤 16,886,246 Input Tokens, 2,412,927 Output Tokens
+🔤 15,721,129 Input Tokens, 2,093,577 Output Tokens
 
-💵 $237.60 Estimated AI Cost This Week
+💵 $194.66 Estimated AI Cost This Week
 
-🧠 85 AI Sessions, 475 AI Prompts
+🧠 66 AI Sessions, 414 AI Prompts
 
-Opus                     2,483 lines         █████████████████████████   100.00 % 
+Opus                     2,098 lines         █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📝 Concise Prompter — average 280 characters per prompt
+🤖 AI-Driven — 99.53% of written lines came from AI
+📝 Concise Prompter — average 204 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.52% of changed lines were hand-edited
+🚀 High AI Trust — 0.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28-10-2026 17:30:32 UTC
+ Last Updated on 29-10-2026 17:31:46 UTC
 <!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leecois/leecois/output/github-contribution-grid-snake-dark.svg">
